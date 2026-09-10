@@ -1,20 +1,8 @@
-# Breadloaf Idols — Research Website
+# Breadloaf Idols — Presentation Guide
 
 Companion website for my EGN presentation on **AI Creativity in the Absence of Ground Truth: An Archaeological Case Study**.
 
-The site provides:
-- Interactive Breadloaf Idol Data Explorer
-- Experiment logic flows
-- Research paper and supplementary material
-- Publication venue links
-- Presentation poster
-
-## Research
+The site includes the poster, Breadloaf Idol Data Explorer, experiment logic flows, example results, and related research papers.
 
 **Ebubechukwu Ike**  
 Bielefeld University · Honda Research Institute Europe
-
-Supervisors: Benjamin Paaßen · Frank Joublin  
-Advisor: Antonello Ceravola
-
-© 2026 Ebubechukwu Ike
