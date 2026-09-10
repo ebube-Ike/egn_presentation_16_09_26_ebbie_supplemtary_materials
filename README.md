@@ -1,2 +1,20 @@
-# egn_presentation_16_09_26_ebbie_supplemtary_materials
-Companion website for research on AI creativity, archaeological evidence, and Breadloaf Idols, including the Data Explorer, experimental logic flows, paper, and supplementary materials
+# Breadloaf Idols — Research Website
+
+Companion website for my EGN presentation on **AI Creativity in the Absence of Ground Truth: An Archaeological Case Study**.
+
+The site provides:
+- Interactive Breadloaf Idol Data Explorer
+- Experiment logic flows
+- Research paper and supplementary material
+- Publication venue links
+- Presentation poster
+
+## Research
+
+**Ebubechukwu Ike**  
+Bielefeld University · Honda Research Institute Europe
+
+Supervisors: Benjamin Paaßen · Frank Joublin  
+Advisor: Antonello Ceravola
+
+© 2026 Ebubechukwu Ike
